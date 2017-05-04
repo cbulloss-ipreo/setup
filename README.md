@@ -1,1 +1,1 @@
-# setupChri
+# setupChris
