@@ -1,1 +1,1 @@
-# setupChr
+# setupChri
